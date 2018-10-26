@@ -1,0 +1,7 @@
+C:\SourceCode\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\SourceCode\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\SourceCode\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\SourceCode\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\SourceCode\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\SourceCode\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\SourceCode\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

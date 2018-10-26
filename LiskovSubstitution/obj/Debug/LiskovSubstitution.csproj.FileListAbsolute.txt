@@ -1,0 +1,6 @@
+C:\SourceCode\DesignPatterns\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe.config
+C:\SourceCode\DesignPatterns\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe
+C:\SourceCode\DesignPatterns\LiskovSubstitution\bin\Debug\LiskovSubstitution.pdb
+C:\SourceCode\DesignPatterns\LiskovSubstitution\obj\Debug\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\SourceCode\DesignPatterns\LiskovSubstitution\obj\Debug\LiskovSubstitution.exe
+C:\SourceCode\DesignPatterns\LiskovSubstitution\obj\Debug\LiskovSubstitution.pdb

@@ -1,0 +1,11 @@
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\obj\Debug\OpenClosed_Library.csprojResolveAssemblyReference.cache
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\obj\Debug\OpenClosed_Library.csproj.CoreCompileInputs.cache
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.pdb
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoStart\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoStart\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoStart\OCPLibrary\obj\Debug\OpenClosed_Library.csproj.CoreCompileInputs.cache
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.pdb

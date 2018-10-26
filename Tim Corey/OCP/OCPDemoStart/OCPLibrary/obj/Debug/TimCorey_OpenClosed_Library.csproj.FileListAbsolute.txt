@@ -1,0 +1,6 @@
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\obj\Debug\TimCorey_OpenClosed_Library.csprojResolveAssemblyReference.cache
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\obj\Debug\TimCorey_OpenClosed_Library.csproj.CoreCompileInputs.cache
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\Users\vguadalupe\Downloads\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.pdb

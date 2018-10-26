@@ -1,0 +1,10 @@
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\bin\Debug\OCPLibrary.dll
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\bin\Debug\OCPLibrary.pdb
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\obj\Debug\TimCorey_OpenClosed.csprojResolveAssemblyReference.cache
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\obj\Debug\TimCorey_OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\obj\Debug\TimCorey_OpenClosed.csproj.CopyComplete
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\vguadalupe\Downloads\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.pdb

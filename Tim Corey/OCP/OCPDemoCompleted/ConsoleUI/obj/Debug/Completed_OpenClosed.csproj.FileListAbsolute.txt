@@ -1,0 +1,1 @@
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoCompleted\ConsoleUI\obj\Debug\Completed_OpenClosed.csproj.CoreCompileInputs.cache

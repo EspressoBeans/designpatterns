@@ -1,0 +1,6 @@
+C:\SourceCode\DesignPatterns\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+C:\SourceCode\DesignPatterns\DependencyInversion\bin\Debug\DependencyInversion.exe
+C:\SourceCode\DesignPatterns\DependencyInversion\bin\Debug\DependencyInversion.pdb
+C:\SourceCode\DesignPatterns\DependencyInversion\obj\Debug\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\SourceCode\DesignPatterns\DependencyInversion\obj\Debug\DependencyInversion.exe
+C:\SourceCode\DesignPatterns\DependencyInversion\obj\Debug\DependencyInversion.pdb

@@ -1,0 +1,6 @@
+C:\SourceCode\DesignPatterns\DesignPatterns\bin\Debug\SingleResponsibility.exe.config
+C:\SourceCode\DesignPatterns\DesignPatterns\bin\Debug\SingleResponsibility.exe
+C:\SourceCode\DesignPatterns\DesignPatterns\bin\Debug\SingleResponsibility.pdb
+C:\SourceCode\DesignPatterns\DesignPatterns\obj\Debug\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\SourceCode\DesignPatterns\DesignPatterns\obj\Debug\SingleResponsibility.exe
+C:\SourceCode\DesignPatterns\DesignPatterns\obj\Debug\SingleResponsibility.pdb

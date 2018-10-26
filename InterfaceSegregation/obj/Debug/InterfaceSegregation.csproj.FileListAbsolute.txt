@@ -1,0 +1,2 @@
+C:\SourceCode\DesignPatterns\InterfaceSegregation\obj\Debug\InterfaceSegregation.csprojResolveAssemblyReference.cache
+C:\SourceCode\DesignPatterns\InterfaceSegregation\obj\Debug\InterfaceSegregation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\SourceCode\DesignPatterns\OpenClosed2\bin\Debug\OpenClosed2.exe.config
+C:\SourceCode\DesignPatterns\OpenClosed2\bin\Debug\OpenClosed2.exe
+C:\SourceCode\DesignPatterns\OpenClosed2\bin\Debug\OpenClosed2.pdb
+C:\SourceCode\DesignPatterns\OpenClosed2\obj\Debug\OpenClosed2.csproj.CoreCompileInputs.cache
+C:\SourceCode\DesignPatterns\OpenClosed2\obj\Debug\OpenClosed2.exe
+C:\SourceCode\DesignPatterns\OpenClosed2\obj\Debug\OpenClosed2.pdb

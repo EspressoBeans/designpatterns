@@ -1,0 +1,5 @@
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoCompleted\OCPLibrary\bin\Debug\OCPLibrary_Complete.dll
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoCompleted\OCPLibrary\bin\Debug\OCPLibrary_Complete.pdb
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoCompleted\OCPLibrary\obj\Debug\Completed_OpenClosed_Library.csproj.CoreCompileInputs.cache
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoCompleted\OCPLibrary\obj\Debug\OCPLibrary_Complete.dll
+C:\SourceCode\DesignPatterns\Tim Corey\OCP\OCPDemoCompleted\OCPLibrary\obj\Debug\OCPLibrary_Complete.pdb
